@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+<div dir="RTL" align="right">
+## وضعیت جلسات هم‌نشینی NSTehran
 
-You can use the [editor on GitHub](https://github.com/amosavian/NSTehran/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+:وضعیت جلسات ارایه شده و پیشنهاد شده
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+| عنوان                      | عنوان فرعی                        | مجموعه          | پیشنهاد/ارایه دهنده                      | وضعیت/تاریخ برگزاری | نمایه | ویدیو |
+| -------------------------- | --------------------------------- | --------------- | ---------------------------------------- | ------------------- | ----- | ----- |
+| URLSession                 | -                                 | شبکه            | [موسویان](https://github.com/amosavian)  | ۲۴ آذر ۱۳۹۶         |       |       |
+| Autolayout                 | -                                 | UI              | علیخانی / [موسی‌لو](https://github.com/farshadmb) | ۲۰ دی ۱۳۹۶          |       |       |
+| UIStackView                | -                                 | UI              | [موسی‌لو](https://github.com/farshadmb) / [عرفان سیدی](https://github.com/NSErfan) | ۲۲ دی ۱۳۹۶          |       |       |
+| Self sizing                | Safe area                         | UI              | [موسی‌لو](https://github.com/farshadmb)  | ۱۲ بهمن ۱۳۹۶        |       |       |
+| Socket                     | NSStream                          | Networking      | [موسی‌لو](https://github.com/farshadmb) / [موسویان](https://github.com/amosavian) | TBD                 |       |       |
+| XCTest                     | XCUITest                          | Test            | [موسی‌لو](https://github.com/farshadmb) / [موسویان](https://github.com/amosavian) | TBD                 |       |       |
+| NSProgress, Drag and Drop  | -                                 | Progress        | [موسویان](https://github.com/amosavian)  | TBD                 |       |       |
+| Memory Management in Swift | -                                 | Foundemental    | [موسویان](https://github.com/amosavian)  | TBD                 |       |       |
+| Design patterns 1          | MVC, MVVM, React                  | Coding Strategy | TBD                                      | TBD                 |       |       |
+| Design patterns 2          | MVC, MVVM, React                  | Coding Strategy | TBD                                      | TBD                 |       |       |
+| Persistency                | Coding, NSCoding, NSKeyedArchiver | Foundemental    | [موسویان](https://github.com/amosavian) / TBD | TBD                 |       |       |
+| AVFoundation               |                                   | UI/Graphics     | TBD                                      | TBD                 |       |       |
+| Concurrency                | GCD, NSOperation                  | Foundemental    | TBD                                      | TBD                 |       |       |
+| Database                   | Sqlite, Realm                     | Foundemental    | TBD                                      | TBD                 |       |       |
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amosavian/NSTehran/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</div>
